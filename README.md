@@ -29,10 +29,13 @@ In addition to my knowledge in AI, I also possess expertise in statistics, which
 class Baphometyr():
     
   def __init__(self):
-    self.name = "Alejandro Arellano";
-    self.username = "baphometyr";
-    self.location = "Aguascalientes, Mexico";
-    self.web = "https://www.linkedin.com/in/luis-alejandro-arellano-l%C3%B3pez-8274651a3/";
+    self.name = "Alejandro Arellano"
+    self.username = "baphometyr"
+    self.location = "Aguascalientes, Mexico"
+    self.linkedin = "https://www.linkedin.com/in/baphometyr/"
+    self.kaggle = "https://www.kaggle.com/baphometyr"
+
+
 
 if __name__ == '__main__':
     me = Baphometyr()
