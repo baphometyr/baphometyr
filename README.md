@@ -3,7 +3,7 @@
 </h1>
 
 <div>
-I am passionate about the world of artificial intelligence and machine learning, with a particular focus on deep learning. With extensive experience in using technologies such as Python, Keras, TensorFlow, sklearn, etc., I dedicate myself to exploring and developing innovative solutions using these tools to address complex challenges.
+I am passionate about the world of artificial intelligence and machine learning, with a particular focus on deep learning and LLMs. With extensive experience in using technologies such as Python, Keras, TensorFlow, sklearn, Langchain, HuggingFace, RAGs systemas, etc., I dedicate myself to exploring and developing innovative solutions using these tools to address complex challenges.
 
 In addition to my knowledge in AI, I also possess expertise in statistics, which allows me to understand and analyze data effectively.
 
